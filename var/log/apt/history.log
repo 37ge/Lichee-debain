@@ -1,0 +1,30 @@
+
+Start-Date: 2020-05-08  16:05:45
+Commandline: /usr/bin/apt install net-tools
+Install: net-tools:armhf (1.60+git20161116.90da8a0-1)
+End-Date: 2020-05-08  16:05:45
+
+Start-Date: 2020-05-09  15:33:54
+Commandline: /usr/bin/apt install vim
+Install: vim-runtime:armhf (2:8.0.0197-4+deb9u3, automatic), vim:armhf (2:8.0.0197-4+deb9u3), libgpm2:armhf (1.20.4-6.2+b1, automatic)
+End-Date: 2020-05-09  15:34:00
+
+Start-Date: 2020-05-09  16:00:25
+Commandline: /usr/bin/apt install usbutils
+Install: libusb-1.0-0:armhf (2:1.0.21-1, automatic), usbutils:armhf (1:007-4+deb9u1)
+End-Date: 2020-05-09  16:00:26
+
+Start-Date: 2020-05-09  17:25:07
+Commandline: /usr/bin/apt-get install wpasupplicant
+Install: libdbus-1-3:armhf (1.10.28-0+deb9u1, automatic), libpcsclite1:armhf (1.8.20-1, automatic), libnl-genl-3-200:armhf (3.2.27-2, automatic), dbus:armhf (1.10.28-0+deb9u1, automatic), libexpat1:armhf (2.2.0-2+deb9u3, automatic), libnl-3-200:armhf (3.2.27-2, automatic), wpasupplicant:armhf (2:2.4-1+deb9u4)
+End-Date: 2020-05-09  17:25:12
+
+Start-Date: 2020-05-10  09:39:43
+Commandline: /usr/bin/apt-get install ssh
+Install: libxdmcp6:armhf (1:1.1.2-3, automatic), libkrb5-3:armhf (1.15-1+deb9u1, automatic), libgssapi-krb5-2:armhf (1.15-1+deb9u1, automatic), libwrap0:armhf (7.6.q-26, automatic), openssh-sftp-server:armhf (1:7.4p1-10+deb9u7, automatic), libk5crypto3:armhf (1.15-1+deb9u1, automatic), libx11-6:armhf (2:1.6.4-3+deb9u1, automatic), krb5-locales:armhf (1.15-1+deb9u1, automatic), libxau6:armhf (1:1.0.8-1, automatic), libxcb1:armhf (1.12-1, automatic), libkrb5support0:armhf (1.15-1+deb9u1, automatic), ssh:armhf (1:7.4p1-10+deb9u7), tcpd:armhf (7.6.q-26, automatic), ucf:armhf (3.0036, automatic), libkeyutils1:armhf (1.5.9-9, automatic), libxmuu1:armhf (2:1.1.2-2, automatic), libpam-systemd:armhf (232-25+deb9u12, automatic), ncurses-term:armhf (6.0+20161126-1+deb9u2, automatic), openssh-server:armhf (1:7.4p1-10+deb9u7, automatic), libx11-data:armhf (2:1.6.4-3+deb9u1, automatic), openssh-client:armhf (1:7.4p1-10+deb9u7, automatic), libedit2:armhf (3.1-20160903-3, automatic), xauth:armhf (1:1.0.9-1+b2, automatic), libxext6:armhf (2:1.3.3-1+b2, automatic)
+End-Date: 2020-05-10  09:40:06
+
+Start-Date: 2020-05-10  09:45:09
+Commandline: /usr/bin/apt-get install sudo
+Install: sudo:armhf (1.8.19p1-2.1+deb9u2)
+End-Date: 2020-05-10  09:45:10
